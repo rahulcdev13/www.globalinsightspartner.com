@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/www.globalinsightspartner.com/static/css/main.bea393a9.css",
+    "main.js": "/www.globalinsightspartner.com/static/js/main.17d02f97.js",
+    "index.html": "/www.globalinsightspartner.com/index.html",
+    "main.bea393a9.css.map": "/www.globalinsightspartner.com/static/css/main.bea393a9.css.map",
+    "main.17d02f97.js.map": "/www.globalinsightspartner.com/static/js/main.17d02f97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bea393a9.css",
+    "static/js/main.17d02f97.js"
+  ]
+}
